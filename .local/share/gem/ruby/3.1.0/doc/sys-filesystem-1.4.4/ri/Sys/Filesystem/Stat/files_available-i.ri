@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"files_available:ETI"*Sys::Filesystem::Stat#files_available;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"IThe number of free files/inodes available to unprivileged processes.;T:
+@fileI"#lib/sys/unix/sys/filesystem.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Sys::Filesystem::Stat;TcRDoc::NormalClass0
